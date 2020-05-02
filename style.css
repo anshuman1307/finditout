@@ -1,0 +1,86 @@
+#container{
+    font-family: 'Roboto', sans-serif;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#pageTitle{
+    font-family: initial;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 3%;
+    background-color: #6548e4;
+    color: white;
+    height: 44px;
+    padding-top: 4px;
+}
+#lastUpdated{
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: right;
+    font-weight: 500;
+    margin-top: 2px;
+}
+#stateData{
+    font-size: 12px;
+}
+.cardval{
+    text-align:center;
+}
+.totalVal{
+    font-family: initial;
+    font-size:18px;
+}
+.sortUp{
+    background: url(assets/icons/sortUp.svg) no-repeat;
+    width: 8px;
+    height: 10px;
+    display: inline-block;
+    position: relative;
+    top: 8px;
+    left: 10px;
+}
+
+.sortDown{
+    background: url(assets/icons/sortDown.svg) no-repeat;
+    width: 8px;
+    height: 10px;
+    display: inline-block;
+    position: relative;
+    top: 8px;
+    left: 10px;
+}
+.india{
+    background: url(assets/icons/india.svg) no-repeat;
+    width: 55px;
+    height: 34px;
+    display: inline-block;
+    position: relative;
+    top: 0;
+    left: 16px;
+}
+.left-arrow{
+    background: url(assets/icons/left-arrow.svg) no-repeat;
+    width: 31px;
+    height: 28px;
+    display: inline-block;
+    position: relative;
+    right: 18%;
+    bottom: 7%;
+}
+.titleText{
+    position: relative;
+    top: -10px;
+    left: 0;
+}
+#stateTitle{
+    font-family: unset;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 3%;
+    height: 44px;
+    margin-left: 11px;  
+}
+.underline{
+    text-decoration: underline;
+}
